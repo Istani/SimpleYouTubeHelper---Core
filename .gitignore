@@ -1,2 +1,9 @@
+# Node Files
 node_modules
+!.gitkeep
+
+# Temp Data
 temp
+logs
+
+# I Dont know
