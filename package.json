@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Istani/SimpleYouTubeHelper---Core/issues"
   },
-  "homepage": "https://github.com/Istani/SimpleYouTubeHelper---Core#readme"
+  "homepage": "https://github.com/Istani/SimpleYouTubeHelper---Core#readme",
+  "dependencies": {
+    "pm2": "^4.2.3"
+  }
 }
