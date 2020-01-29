@@ -1,0 +1,20 @@
+{
+  "name": "SimpleYouTubeHelper-Core",
+  "version": "0.0.1",
+  "description": "New SimpleYTH",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Istani/SimpleYouTubeHelper---Core.git"
+  },
+  "keywords": [],
+  "author": "Sascha Kaufmann <sascha.u.kaufmann@googlemail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Istani/SimpleYouTubeHelper---Core/issues"
+  },
+  "homepage": "https://github.com/Istani/SimpleYouTubeHelper---Core#readme"
+}
